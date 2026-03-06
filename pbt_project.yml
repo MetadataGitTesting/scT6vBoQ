@@ -1,0 +1,50 @@
+name: salina.mills
+description: Quality-focused
+version: 0.0.1
+author: t6mp8cbe.rrbn2vnt@tvvktwbi.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: salinamills
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2026-03-06 13:47:33'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2026-03-06 13:47:33'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2026-03-06T13:47:33.436364Z'
+  name: plibMaven
+  version: 9.0.3
+  id: '689424408'
+  createdAt: '2026-03-06T13:47:33.436364Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
